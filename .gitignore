@@ -17,3 +17,7 @@
 # Eclipse
 .settings
 .project
+
+# Composer
+vendor/
+
